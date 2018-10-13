@@ -48,8 +48,10 @@
       <div class="jumbotron">
         <h1>SMS example</h1>
         <p class="lead">This example is a quick exercise to illustrate how SMS API use.</p>
-        <button class="btn btn-lg btn-primary">
-        <a style="color: white" href="sms.php" role="button">SMS &raquo;</a></button>
+        <form action="sms.php" method="GET">
+          
+        <button style="color: white" name="btn" class="btn btn-lg btn-primary">SMS &raquo;</button>
+        </form>
       </div>
     </main>
 

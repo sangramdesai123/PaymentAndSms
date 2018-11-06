@@ -38,12 +38,18 @@
 
     <main role="main" class="container">
       <div class="jumbotron">
-        <h1>Payment example</h1>
+        <h1>Payment Instamojo</h1>
         <p class="lead">This example is a quick exercise to illustrate how the Paayment API use.</p>
         <button class="btn btn-lg btn-primary">
         <a style="color: white" href="index.php" role="button">Payment &raquo;</a></button>
       </div>
 
+      <div class="jumbotron">
+        <h1>Payment PayUMoney</h1>
+        <p class="lead">This example is a quick exercise to illustrate how the Paayment API use.</p>
+        <button class="btn btn-lg btn-primary">
+        <a style="color: white" href="payumoney.php" role="button">Payment &raquo;</a></button>
+      </div>
 
       <div class="jumbotron">
         <h1>SMS example</h1>

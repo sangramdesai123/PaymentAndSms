@@ -7,8 +7,8 @@ curl_setopt($ch, CURLOPT_HEADER, FALSE);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
 curl_setopt($ch, CURLOPT_HTTPHEADER,
-            array("X-Api-Key:test_6fdd4d74ccecd45d62b5632b5b2",
-                  "X-Auth-Token:test_368ad7bb24f0143af33d9174a4c"));
+            array("X-Api-Key:XXXXXXXXXXXXXXXXXXXXX",
+                  "X-Auth-Token:XXXXXXXXXXXXXXXXXXXX"));
 $name="sangram";
 $tel="9999999999";
 $payload = Array(
@@ -18,7 +18,7 @@ $payload = Array(
     'buyer_name' => $name,
     'redirect_url' => 'http://localhost/sangram/pay/success.php',
     'send_email' => true,
-    'webhook' => '',
+    'webhook' => '',//add webhook address here
     'send_sms' => true,
     'email' => 'foo@example.com',
     'allow_repeated_payments' => false

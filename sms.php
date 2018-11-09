@@ -1,7 +1,7 @@
 <?php
 if(isset($_GET['btn']))
 {
-$mobileNo=8828044413;//
+$mobileNo=88779217944;//
 $message = urlencode('hi from sangram ');//your message
 $authKey = "XXXXXXXXXXXXXXXXXXXXXXXXXx";//your api key
 $senderId = "SDesai";//shold be less than 6 char

@@ -15,7 +15,11 @@ What things you need to install the software and how to install them
  </code></pre>
  
 ------------------------------------------
-
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=300px src="./image/1.jpg" alt="image"></a>
+</p>
+------------------------------------------
 ### Contributing
 
  We're are open to `enhancements` & `bug-fixes` :smile: Also do have a look [here](./CONTRIBUTING.md)

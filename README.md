@@ -1,6 +1,6 @@
 # PaymentAndSms
 ------------------------------------------
-Activity:
+### Activity:
 1. Payment using PayUMoney api
 2. Payment using InstaMojo api
 3. SMS api 
@@ -15,11 +15,9 @@ What things you need to install the software and how to install them
  </code></pre>
  
 ------------------------------------------
-<p align="center">
-  <a href="" rel="noopener">
- <img width=300px src="./image/1.jpg" alt="image"></a>
-</p>
+![Home Page ](https://github.com/sangramdesai123/PaymentAndSms/blob/master/img/1.JPG)
 ------------------------------------------
+
 ### Contributing
 
  We're are open to `enhancements` & `bug-fixes` :smile: Also do have a look [here](./CONTRIBUTING.md)
